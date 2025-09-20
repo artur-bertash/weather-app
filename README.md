@@ -1,11 +1,1 @@
-# Webpack Boilerplate
-
-A simple Webpack 5 boilerplate with HTML, CSS, and image support for development.
-
-## Setup
-
-```bash
-npm install --save-dev webpack webpack-cli webpack-dev-server \
-html-webpack-plugin html-loader style-loader css-loader
-npm start
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2893040d-5822-4d6d-8fc4-0fbd8367454d" />
